@@ -1,0 +1,14 @@
+body{
+	background-image: url(../images/SeinfeldBackground.jpg);
+	background-size: cover;
+}
+
+.text-muted{
+	color: White;
+}
+.last-seconds{
+  color: red;
+}
+.option{
+  margin: 15px;
+}
