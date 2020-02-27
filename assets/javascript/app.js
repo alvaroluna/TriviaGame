@@ -42,25 +42,25 @@ var trivia = {
     q1: ['Lower East Side', 'Upper East Side', 'Upper West Side', 'DUMBO'],
     q2: ['unforgettable', 'exceptional', 'remarkable', 'spectacular'],
     q3: ['"the Bro"', '"the Breast Man"', '"Man\'s Best Friend"', 'the Buddy System'],
-    q4: ['latex salesman', 'novelist', 'garbageman', '6'],
-    q5: ['Rachel', 'Phoebe', 'Emily', 'Carol'],
-    q6: ['Joey', 'Chandler', 'Rachel', 'Ross'],
-    q7: ['Ross', 'Phoebe', 'Monica', 'Chandler'],
-    q8: ['Ross', 'Phoebe', 'Monica', 'Chandler'],
-    q9: ['Ross', 'Phoebe', 'Monica', 'Chandler'],
-    q10: ['Ross', 'Phoebe', 'Monica', 'Chandler']
+    q4: ['latex salesman', 'novelist', 'garbageman', 'importer-exporter'],
+    q5: ['Robert Kardashian', 'Alan Dershowitz', 'Johnnie Cochran', 'F.Lee Bailey'],
+    q6: ['with more of everything', 'with more ingredients', 'with lots of stuff in it', 'like a big salad'],
+    q7: ['singing', 'dancing', 'cooking', 'soccer'],
+    q8: ['Boston Market', 'Quiznos', 'Dallas BBQ', 'Kenny Rogers Roasters'],
+    q9: ['support his second-spitter theory', 'dog-sit his poodle', 'set him up with Elaine', 'help him move'],
+    q10: ['salmon', 'sorbet', 'swordfish', 'steak']
   },
   answers: {
     q1: 'Upper West Side',
     q2: 'spectacular',
     q3: '"the Bro"',
-    q4: '11',
-    q5: 'Rachel',
-    q6: 'Chandler',
-    q7: 'Phoebe',
-    q8: '',
-    q9: '',
-    q10: ''
+    q4: 'importer-exporter',
+    q5: 'Johnnie Cochran',
+    q6: 'with lots of stuff in it',
+    q7: 'dancing',
+    q8: 'Kenny Rogers Roasters',
+    q9: 'help him move',
+    q10: 'swordfish'
   },
   // trivia methods
   // method to initialize game
